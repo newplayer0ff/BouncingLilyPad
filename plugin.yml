@@ -1,0 +1,5 @@
+name: BoucingLillyPad
+version: 1
+api: 3.0.0
+main: NewPlayerMC\LilyPad\Main
+author: NewPlayerMC
