@@ -1,0 +1,16 @@
+# Jump force of the lillypad
+#
+# --------------------------
+#
+# Force du rebondissement du nénuphar
+#
+# ---------------------------------------------------------------
+# /!\ DO NOT PUT IT OVER 10 OR ELSE IT WILL NOT WORK
+# /!\ Jump force do not means how much blocs it will make you jum
+#
+# ---------------------------------------------------------------
+#
+# /!\ NE PAS METTRE AU DESSUS DE 10 SINON ÇA NE MARCHERA PAS
+# /!\ La force du rebondissement ne veut pas dire le nombre de blocs que cela vous fera sauter
+# --------------------------------------------------------------------------------------------
+jump_force: 3
